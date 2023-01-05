@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  I am Rich
+//  I am Poor
 //
-//  Created by Simon Peppitt on 03/01/2023.
+//  Created by Simon Peppitt on 05/01/2023.
 //
 
 import UIKit
